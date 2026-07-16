@@ -1,0 +1,4 @@
+Diffusion Model Checkpoint Kaggle link:
+
+
+https://www.kaggle.com/datasets/seshadhiriganesh/diffusion-models-figures-volumetric
